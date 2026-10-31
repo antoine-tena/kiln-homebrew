@@ -1,9 +1,9 @@
 # homebrew-ion
 
-Homebrew tap of the [Ion family](https://github.com/antoine-tena/ion), **reserved: not used yet**.
-
-Install [ion-repo](https://github.com/antoine-tena/ion-repo) with [uv](https://docs.astral.sh/uv/):
+Homebrew tap of the [Ion family](https://github.com/antoine-tena/ion). It holds the formula of
+[ion-repo](https://github.com/antoine-tena/ion-repo), still under its former name `kiln`, updated
+at each release:
 
 ```sh
-uv tool install kiln-cli
+brew install antoine-tena/ion/kiln
 ```
